@@ -12,9 +12,7 @@ import java.io.IOException;
 import java.util.concurrent.TimeUnit;
 
 
-/**
- * Created by User on 24.02.2016.
- */
+
 
 @BenchmarkMode(Mode.AverageTime)
 @OutputTimeUnit(TimeUnit.MILLISECONDS)
